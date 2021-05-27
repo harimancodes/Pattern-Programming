@@ -37,3 +37,13 @@
    * * 
     * 
 </pre>
+
+# Inverted Half Hollow Pyramid
+
+<pre>
+* * * * * 
+*     *     
+*   *   
+* * 
+*
+</pre>
