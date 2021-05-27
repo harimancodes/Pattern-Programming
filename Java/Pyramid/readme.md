@@ -28,3 +28,12 @@
 * * * * * 
 </pre>
 
+# Inverted Full Pyramid
+
+<pre>
+* * * * * 
+ * * * * 
+  * * * 
+   * * 
+    * 
+</pre>
