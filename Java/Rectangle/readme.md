@@ -6,7 +6,7 @@
 * * * * * 
 </pre>
 
-# Hollow ectangle
+# Hollow Rectangle
 
 <pre>
 * * * * * * * * 
