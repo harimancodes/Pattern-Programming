@@ -6,7 +6,7 @@
 * * * * * 
 </pre>
 
-# Half Pyramid
+# Hollow ectangle
 
 <pre>
 * * * * * * * * 
